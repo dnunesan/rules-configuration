@@ -1,0 +1,2 @@
+# rules-configuration
+test
